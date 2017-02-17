@@ -1,4 +1,7 @@
 <?php
+
+namespace Join; //This is needed
+
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
 use pocketmine\utils\TextFormat;

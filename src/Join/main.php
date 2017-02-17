@@ -1,6 +1,6 @@
 <?php
 
-namespace Join; //This is needed
+namespace Join\main; //This is needed
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;

@@ -1,5 +1,5 @@
 name: PLayerJoinMessage
-main: src/main
+main: Join/main
 version: 1.0
 api: 3.0.0
 author: ZorexPvP
